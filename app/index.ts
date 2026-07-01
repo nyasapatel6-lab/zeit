@@ -4,9 +4,8 @@ import {preferences} from "user-settings";
 import {Time} from "./time";
 import {Date} from "./date";
 
-clock.granularity = "minutess";
 
-const timeBox = document.getElementById("timeBox");
+
 const timeBoxShadow = document.getElementById("timeBoxShadows");
 const wordBox = document.getElementById("wordBox");
 const wordBoxShadow = document.getElementById("wordBoxShadows");
